@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <Header />
       <ListarTarefa />
+      <h1>Bem-vindo ao Projeto Modificado!</h1>;
     </div>
   );
 }
